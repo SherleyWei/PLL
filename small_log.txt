@@ -1,0 +1,21 @@
+Total nodes: 6, total edges: 11
+Index 0 delay 9 s.
+Index 1 delay 2 s.
+Index 2 delay 6 s.
+Index 3 delay 9 s.
+Index 4 delay 2 s.
+Index 5 delay 5 s.
+Indexes: 1, Node: 3, Labels: 18
+Indexes: 4, Node: 6, Labels: 18
+Indexes: 5, Node: 1, Labels: 18
+Indexes: 2, Node: 4, Labels: 18
+Indexes: 0, Node: 2, Labels: 18
+Indexes: 3, Node: 5, Labels: 18
+Test result:
+2
+1
+0
+1
+2
+2
+0
